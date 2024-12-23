@@ -42,7 +42,7 @@ Este notebook demonstra o processo de análise de dados e modelagem preditiva em
 
 - Explorar diferentes técnicas de modelagem, como regressão polinomial ou árvores de decisão.
 - Ajustar os hiperparâmetros dos modelos para otimizar o desempenho.
-- Implantar o modelo para prever encargos em tempo real.# Medical Insurance Cost Prediction
+- Implantar o modelo para prever encargos em tempo real.
 
 # Medical Insurance Cost Prediction - English (EN)
 
